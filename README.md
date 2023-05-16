@@ -11,3 +11,7 @@ This folder contains the scripts for the ur5 forward kinematics
 
 ### Cad models
 All files in this folder are for the STL files of the cad models used for the project
+
+
+### TDH.m
+this is the file for creating a transformation matrice from the denavit hartenberg parameters, it is also nneded for computing inverse kinematics.
