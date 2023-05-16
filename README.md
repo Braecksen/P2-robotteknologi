@@ -6,7 +6,7 @@ The ur5 inverse kinematics scripts consists of 10 different scripts, all scripts
 The TDH.m is a function provided by Ole in the kinematics lecture which creates a transformation matrice from the denavit hartenberg parameters. This is both used for computing the final theta values but also for generating a random transforamtion matrix.
 
 ### Script for UR5 forward kinematics
-
+This folder contains the scripts for the ur5 forward kinematics
 
 
 ### Cad models
