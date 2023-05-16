@@ -13,3 +13,4 @@ UR5 = SerialLink([L1,L2,L3,L4,L5,L6], 'name', 'UR5');
 
 % Plotting the robot
 
+UR5.teach
